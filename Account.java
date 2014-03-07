@@ -26,6 +26,6 @@ public class Account {
 				+ accountNumber + ", Current Balance: " + balance );
 		// Display name, account number, 
                  // and current balance.
-		//Dota > LoL
+		//Testing Git in Eclipse
 	}
 }
