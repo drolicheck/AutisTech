@@ -8,5 +8,6 @@ public class Demo
 	    citi.setCustomer(alice);
 	    
 	    alice.printCustomerInfo();//name ssn, accnt num
+		System.out.print("Test");
 	 }
 }
