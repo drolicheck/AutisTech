@@ -1,0 +1,40 @@
+<!--
+  Copyright 2011 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+    <integer name="grid_num_rows">2</integer>
+    <integer name="grid_num_cols">2</integer>
+
+    <dimen name="topic_title_height">14sp</dimen>
+    <dimen name="topic_title_padding">0sp</dimen>
+    <dimen name="button_area_height">40sp</dimen>
+    <dimen name="title_bar_height">26sp</dimen>
+    <dimen name="image_grid_vspacing">8sp</dimen>
+    <dimen name="image_grid_hspacing">8sp</dimen>
+    <dimen name="other_grid_h">8sp</dimen>
+    <dimen name="other_grid_w">8sp</dimen>
+
+    <dimen name="grid_image_padding">2sp</dimen>
+
+    <dimen name="title_text_padding">8sp</dimen>
+
+    <dimen name="text_body_padding">8sp</dimen>
+    <dimen name="text_size_small">10sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+    <dimen name="text_size_very_large">32sp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <style name="Theme.Demo" parent="@android:style/Theme.Holo.Light"></style>  -->  
+    <dimen name="title_bar_height">36dp</dimen>
+    
+</resources>

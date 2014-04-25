@@ -1,0 +1,60 @@
+<!--
+  Copyright 2011 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+    <style name="Theme.Demo" parent="android:style/Theme.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+ 
+    <style name="ImageGridButton">
+            <item name="android:textSize">11dp</item>
+            <item name="android:layout_height">32dp</item>
+    </style>
+
+    <style name="TopicTitleText">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/text_size_very_large</item>
+        <item name="android:padding">@dimen/title_text_padding</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/topic_title_text</item>
+        <item name="android:singleLine">false</item>
+    </style>
+
+    <style name="TopicText">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:padding">@dimen/text_body_padding</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+        <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style>
+    
+    <style name="GridPageTitleText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/topic_title_height</item>
+        <item name="android:padding">@dimen/topic_title_padding</item>
+    </style>
+
+
+</resources>
