@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ImageView 
+        android:id="@+id/image"
+        android:layout_width="fill_parent" 
+        android:layout_height="fill_parent" 
+        android:padding="@dimen/grid_image_padding"    
+        android:scaleType="fitCenter"
+        android:src="@drawable/red_car" 
+        />
+    
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginBottom="4dip"
+        android:layout_gravity="bottom"
+
+        android:padding="16dip"
+        
+        android:background="#aa336699"
+        android:textColor="#ffffffff"
+        
+        android:text="@string/sample_topic_title" 
+
+        />
+
+</FrameLayout>

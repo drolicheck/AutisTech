@@ -1,0 +1,36 @@
+<!--
+  Copyright 2011 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Image Grid Pager</string>
+    <string name="hello">Welcome</string>
+    
+    <string name="alternate_title">An alternate title that is long</string>
+    <string name="toggle_title">Toggle title</string>
+
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_share">Share</string>
+    
+    <string name="first_page">First</string>
+    <string name="last_page">Last</string>
+	<string name="demo_pager_title">Image Grid Pager</string>
+	<string name="demo_pager2_title">Image Grid Pager</string>
+	<string name="sample_topic_title">Sample Topic</string>
+	<string name="sample_topic_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a accumsan erat. Cras sollicitudin, purus eget ultrices pretium, mi leo suscipit enim, nec lacinia est nisl vel ipsum. Nullam auctor lobortis scelerisque. Sed laoreet ornare sodales. Proin consectetur lacus sem. Integer leo massa, venenatis ac auctor iaculis, ultricies in dolor. Nulla at nunc sapien. Vivamus eget dolor eros, dapibus scelerisque nisl. Praesent malesuada porttitor nisl, vitae pellentesque felis tempus quis. Maecenas felis nibh, aliquet ut vestibulum non, consectetur nec nibh. Maecenas pretium augue id lorem venenatis et euismod lectus varius. Fusce mollis erat elementum purus mattis ut cursus mauris iaculis. Sed vestibulum lectus quis lectus rutrum ac tempus risus rhoncus. Maecenas vel justo felis.</string>
+	<string name="no_items">No items</string>
+    
+</resources>
